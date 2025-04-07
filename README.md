@@ -8,4 +8,4 @@ Hi there 👋
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=tokyonight)
 
 ## 🗓️ 오늘의 기분
-![github-metrics](https://metrics.lecoq.io/sungyeonkim27?template=classic)
+![Metrics](https://metrics.lecoq.io/sungyeonkim27?template=classic)
