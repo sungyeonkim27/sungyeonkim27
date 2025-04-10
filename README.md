@@ -1,4 +1,4 @@
-Hi there 👋
+#Hi there 👋
 🔥 I am a developer who learns and grows hard.  
 
 ## ✨ 기술 스택
