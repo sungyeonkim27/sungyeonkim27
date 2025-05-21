@@ -10,3 +10,4 @@
 
 ## 🗓️ 오늘의 기분
 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=dark)
