@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 </div>
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=tokyonight)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=tokyonight)
 
 ## 백준 solved ac
 
