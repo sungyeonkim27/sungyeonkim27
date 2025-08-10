@@ -1,8 +1,8 @@
 
-# Hi there 👋
+# 👋 Hi there I'm Sungyeon Kim!
 🔥 I am a developer who learns and grows hard.  
 
-## ✨ 기술 스택
+## ✨ Development Stacks
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white"/> 
@@ -11,6 +11,15 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 </div>
+
+## Background
+- 동아대학교 기계공학과 졸업 (2016.03 ~ 2022.02)
+- 경원에너텍 철강플랜트사업부 재직 (2021.12 ~ 2025.03)
+- ESTsoft 백엔드 개발자 양성 과정 오르미(11기) (2025/04/08 ~ 2025/08/25)
+## Project
+
+## Award
+
 ## 📈 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=default)
