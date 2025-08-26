@@ -17,7 +17,7 @@
 - 경원에너텍 철강플랜트사업부 재직 (2021.12 ~ 2025.03)
 - ESTsoft 백엔드 개발자 양성 과정 오르미(11기) (2025/04/08 ~ 2025/08/25)
 ## Project
-- <a href="https://github.com/Nyppp/pet_trip_service#" >반려동물 동반 여행 플랫폼 프로젝트</a> (2025년 7월 25일 ~ 8월 25일)
+- <a href="https://github.com/Nyppp/pet_trip_service#" >반려동물 동반 여행 플랫폼 프로젝트</a> (2025년 7월 29일 ~ 8월 25일)
 - <a href="https://github.com/yoonhyunjin02/Trade_market" >당근 마켓 클론 코딩 프로젝트</a> (2025년 7월 3일 ~ 7월 23일) 
 - <a href="https://github.com/yoonhyunjin02/youtube-clone-frontend" > youtube-clone-frontend 프로젝트 </a> (2025년 4월 21일 ~ 2025년 5월 12일)
 ## Award
