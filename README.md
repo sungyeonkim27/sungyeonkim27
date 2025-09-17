@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/> 
 </div>
 
 ## Background
