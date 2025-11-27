@@ -36,4 +36,4 @@
 ## 백준 solved ac
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdddus14)](https://solved.ac/tjddus14)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjddus14)](https://solved.ac/tjddus14)
