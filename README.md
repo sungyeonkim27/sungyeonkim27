@@ -1,6 +1,7 @@
 
-# 👋 Hi there I'm Sungyeon Kim!
-🔥 I am a developer who learns and grows hard.  
+# 👋 Hi there! I'm Sungyeon Kim
+🔥 Java / Spring Boot 기반 백엔드 개발자  
+현재 **블루비즈(BlueBIZ)에서 백엔드 개발자로 근무 중**입니다.
 
 ## ✨ Development Stacks
 <div>
