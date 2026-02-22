@@ -32,7 +32,7 @@
 - <a href="https://drive.google.com/file/d/1dUX-8yPoQZPmESfm9tMGko_iKxGaNGXB/view?usp=sharing" > 이스트소프트 백엔드 개발자 양성과정 11기 2차 팀프로젝트 대상 </a>
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeonkim27&show_icons=true&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sungyeonkim27&theme=default)
 
 ## 백준 solved ac
 
