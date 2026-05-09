@@ -1,6 +1,5 @@
 
 # 👋 Hi there! I'm Sungyeon Kim
-🔥현재 **블루비즈(BlueBIZ)에서 백엔드 개발자로 근무 중**입니다.
 
 ## ✨ Development Stacks
 <div>
